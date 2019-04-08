@@ -1,0 +1,8 @@
+/eos/uscms/store/user/wangz/DoubleEG/DoubleEG-Run2016D-03Feb2017-noMuCal-dm-part1/180103_003506/012.root output_DoubleEG_4l_D_012.root
+/eos/uscms/store/user/wangz/DoubleEG/DoubleEG-Run2016D-03Feb2017-noMuCal-dm-part1/180103_003506/345.root output_DoubleEG_4l_D_345.root
+/eos/uscms/store/user/wangz/DoubleEG/DoubleEG-Run2016D-03Feb2017-noMuCal-dm-part1/180103_003506/6789.root output_DoubleEG_4l_D_6789.root
+/eos/uscms/store/user/wangz/DoubleEG/DoubleEG-Run2016E-03Feb2017-noMuCal-dm-part1/180103_003215/012.root output_DoubleEG_4l_E_012.root
+/eos/uscms/store/user/wangz/DoubleEG/DoubleEG-Run2016E-03Feb2017-noMuCal-dm-part1/180103_003215/345.root output_DoubleEG_4l_E_345.root
+/eos/uscms/store/user/wangz/DoubleEG/DoubleEG-Run2016E-03Feb2017-noMuCal-dm-part1/180103_003215/678.root output_DoubleEG_4l_E_678.root
+/eos/uscms/store/user/wangz/DoubleEG/DoubleEG-Run2016F-03Feb2017-noMuCal-dm-part1/180103_002918/012.root output_DoubleEG_4l_F_012.root 
+/eos/uscms/store/user/wangz/DoubleEG/DoubleEG-Run2016F-03Feb2017-noMuCal-dm-part1/180103_002918/3456.root output_DoubleEG_4l_F_3456.root

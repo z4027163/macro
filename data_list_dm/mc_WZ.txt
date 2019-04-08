@@ -1,0 +1,1 @@
+/eos/uscms/store/user/wangz/WZJToLLLNu_TuneCUETP8M1_13TeV-amcnlo-pythia8/WZJToLLLNu_TuneCUETP8M1_13TeV-amcnlo-pythia8_v1/180511_213856/0.root output_WZJToLLLNu_amcatnlo.root

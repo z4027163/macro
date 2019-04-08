@@ -1,0 +1,3 @@
+/eos/uscms/store/user/wangz/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8_v8/180913_180905/6789.root GH/output_DYJetsToLL_amcatnloFXFX_de_6789.root
+/eos/uscms/store/user/wangz/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8_v8/180913_180905/345.root GH/output_DYJetsToLL_amcatnloFXFX_de_345.root
+/eos/uscms/store/user/wangz/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8_v8/180913_180905/012.root GH/output_DYJetsToLL_amcatnloFXFX_de_012.root

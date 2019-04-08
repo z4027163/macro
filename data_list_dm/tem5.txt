@@ -1,0 +1,7 @@
+/eos/uscms/store/user/wangz/ZZTo4L_13TeV_powheg_pythia8/ZZTo4L_13TeV_powheg_pythia8/190207_150456/0.root tem2/output_ZZTo4L_powheg_6.root
+/eos/uscms/store/user/wangz/ZZTo4L_13TeV_powheg_pythia8_ext1/ZZTo4L_13TeV_powheg_pythia8_ext1/190207_150025/1.root tem2/output_ZZTo4L_powheg_1.root
+/eos/uscms/store/user/wangz/ZZTo4L_13TeV_powheg_pythia8_ext1/ZZTo4L_13TeV_powheg_pythia8_ext1/190207_150025/2.root tem2/output_ZZTo4L_powheg_2.root
+/eos/uscms/store/user/wangz/ZZTo4L_13TeV_powheg_pythia8_ext1/ZZTo4L_13TeV_powheg_pythia8_ext1/190207_150025/3.root tem2/output_ZZTo4L_powheg_3.root
+/eos/uscms/store/user/wangz/ZZTo4L_13TeV_powheg_pythia8_ext1/ZZTo4L_13TeV_powheg_pythia8_ext1/190207_150025/4.root tem2/output_ZZTo4L_powheg_4.root
+/eos/uscms/store/user/wangz/ZZTo4L_13TeV_powheg_pythia8_ext1/ZZTo4L_13TeV_powheg_pythia8_ext1/190207_150025/5.root tem2/output_ZZTo4L_powheg_5.root
+/eos/uscms/store/user/wangz/ZZTo4L_13TeV_powheg_pythia8_ext1/ZZTo4L_13TeV_powheg_pythia8_ext1/190207_150025/0.root tem2/output_ZZTo4L_powheg_0.root

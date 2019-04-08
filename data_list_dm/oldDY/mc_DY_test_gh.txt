@@ -1,0 +1,2 @@
+/eos/uscms/store/user/wangz/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8_noMuCal_v1/180124_040722/012.root GH/output_DYJetsToLL_amcatnloFXFX_de_012.root
+/eos/uscms/store/user/wangz/TTJets_DiLept_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/TTJets_DiLept_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_noMuCal_v1/180111_190030/012.root GH/output_TT_TuneCUETP8M1_de_012.root

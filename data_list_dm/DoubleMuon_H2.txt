@@ -1,0 +1,3 @@
+/eos/uscms/store/user/wangz/DoubleMuon/DoubleMuon-Run2016H-03Feb2017-noMuCal-dm-part2/171127_052918/012.root output_DoubleMuon_dm_H_part2_012.root
+/eos/uscms/store/user/wangz/DoubleMuon/DoubleMuon-Run2016H-03Feb2017-noMuCal-dm-part2/171127_052918/345.root output_DoubleMuon_dm_H_part2_345.root
+/eos/uscms/store/user/wangz/DoubleMuon/DoubleMuon-Run2016H-03Feb2017-noMuCal-dm-part2/171127_052918/678.root output_DoubleMuon_dm_H_part2_678.root

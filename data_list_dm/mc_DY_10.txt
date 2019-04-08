@@ -1,0 +1,1 @@
+/eos/uscms/store/user/wangz/DYJetsToLL_M-10to50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/DYJetsToLL_M-10to50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8_ext1_st/190303_122911/012345.root GH/output_DYJetsToLL_amcatnloFXFX_10.root

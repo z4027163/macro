@@ -1,0 +1,37 @@
+DY atmcnlo: 1.558-1.56*e4  35938649
+WZ atmcnlo: 8.444-8.445
+TT mad: N/A 9577349
+ZZTo4L atmcnlo: 0.6486(dm)/1.793  10709784
+TTZ atmcnlo 3: 0.4671(dm)/0.2512  5934228
+TTZ atmcnlo 2: 0.2513             5982035
+TTZ atmcnlo 1: 0.2514             1992438
+WJets atmcnlo: 1.53*e5 235575850
+WZToLLLNu atmcnlo: 7.5 1930828 
+GluGluToZZTo2e2mu: 1 1469600
+GluGluToZZTo4e: 1 999200
+GluGluToZZTo4mu:1 986800
+GluGluToZZTo2mu2tau: 1 499800
+GluGluToZZTo4tau: 1 495800
+GluGluToZZTo2e2tau: 1 500000 haddws: GluGluToZZTo4L->500000: 2e2mu 4e 4mu 2mu2tau 4tau 2e2tau 0.0756 0.0556 0.0556 0.2223
+ZZTo4L powheg: 6669988
+       powheg ext1: 96581110
+GluGluHToZZTo4L: 1 992224
+VBF_HToZZTo4L:1 500000
+DYBBToLL: 1 2554303
+TT mad more: 1 24350202
+
+DY_10-50: 24572 40360780 (st 39368450) 
+
+signal file number:
+mH   mA=250 mA=220 mA=290
+350  3988   4688 
+400  4999   4561   4523
+450  4974   4778   4319
+500  4907   4603   4666
+550  4811   4791   4823
+600  4885   4858   4655
+650  4996   4259   4245
+700  4857   4794   4491 
+750  4810   4344   4464
+800  4884   4185   4306 
+

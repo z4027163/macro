@@ -1,0 +1,2 @@
+/eos/uscms/store/user/wangz/TTJets_DiLept_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/TTJets_DiLept_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_more/181128_120312/012.root GH/output_TT_TuneCUETP8M1_012.root
+/eos/uscms/store/user/wangz/TTJets_DiLept_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/TTJets_DiLept_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_more/181128_120312/3456.root GH/output_TT_TuneCUETP8M1_3456.root

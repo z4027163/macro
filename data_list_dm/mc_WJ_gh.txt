@@ -1,0 +1,3 @@
+/eos/uscms/store/user/wangz/WJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/WJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8_se/180523_214646/012.root GH/output_WJetsToLNu_amcatnloFXFX_012.root
+/eos/uscms/store/user/wangz/WJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/WJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8_se/180523_214646/345.root GH/output_WJetsToLNu_amcatnloFXFX_345.root
+/eos/uscms/store/user/wangz/WJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/WJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8_se/180523_214646/678.root GH/output_WJetsToLNu_amcatnloFXFX_678.root

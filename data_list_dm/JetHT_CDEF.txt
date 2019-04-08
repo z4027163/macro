@@ -1,0 +1,4 @@
+/eos/uscms/store/user/wangz/JetHT/JetHT/JetHT_Run2016C-03Feb2017-v1/180515_230954/0.root output_JetHT_C.root
+/eos/uscms/store/user/wangz/JetHT/JetHT/JetHT_Run2016D-03Feb2017-v1/180515_231146/0.root output_JetHT_D.root
+/eos/uscms/store/user/wangz/JetHT/JetHT/JetHT_Run2016F-03Feb2017-v1/180515_231535/0.root output_JetHT_F.root
+/eos/uscms/store/user/wangz/JetHT/JetHT/JetHT_Run2016E-03Feb2017-v1/180515_231340/0.root output_JetHT_E.root

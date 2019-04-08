@@ -1,0 +1,1 @@
+/eos/uscms/store/user/wangz/WJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/WJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8_sm/181203_103344/012.root GH/output_WJetsToLNu_amcatnloFXFX_sm.root
